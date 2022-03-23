@@ -4,15 +4,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { thingReducer } from '../redux/things/things';
 
 const Things = () => {
-  // const dispatch = useDispatch();
-  // const loadThingAction = bindActionCreators(loadThing, dispatch);
   const { messages, loading } = useSelector((state) => state.thingReducer);
-
-  // useEffect(() => {
-  //   loadThingAction();
-  //   return () => null;
-  // }, []);
-  console.log(messages);
 
   return (
     <div className="container">
@@ -24,8 +16,15 @@ const Things = () => {
 
         messages.map((thing) => (
           <div key={thing.id}>
-            <h2>
-
+          <h2
+            style={{
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              height: '80vh',
+              margin: 0,
+            }}
+          >
               {thing.message}
             </h2>
           </div>

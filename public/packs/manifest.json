@@ -1,13 +1,13 @@
 {
-  "application.js": "/packs/js/application-4b0c162f2bd167d719b7.js",
-  "application.js.map": "/packs/js/application-4b0c162f2bd167d719b7.js.map",
+  "application.js": "/packs/js/application-99a7c34984a1fc0f9d88.js",
+  "application.js.map": "/packs/js/application-99a7c34984a1fc0f9d88.js.map",
   "entrypoints": {
     "application": {
       "js": [
-        "/packs/js/application-4b0c162f2bd167d719b7.js"
+        "/packs/js/application-99a7c34984a1fc0f9d88.js"
       ],
       "js.map": [
-        "/packs/js/application-4b0c162f2bd167d719b7.js.map"
+        "/packs/js/application-99a7c34984a1fc0f9d88.js.map"
       ]
     },
     "hello_react": {
@@ -20,25 +20,25 @@
     },
     "react-content": {
       "js": [
-        "/packs/js/react-content-a99633019192952a0930.js"
+        "/packs/js/react-content-129a952d3034768daea0.js"
       ],
       "js.map": [
-        "/packs/js/react-content-a99633019192952a0930.js.map"
+        "/packs/js/react-content-129a952d3034768daea0.js.map"
       ]
     },
     "server_rendering": {
       "js": [
-        "/packs/js/server_rendering-9edfcabe110a8dc4280b.js"
+        "/packs/js/server_rendering-7f994fc3da0d0a5a45a8.js"
       ],
       "js.map": [
-        "/packs/js/server_rendering-9edfcabe110a8dc4280b.js.map"
+        "/packs/js/server_rendering-7f994fc3da0d0a5a45a8.js.map"
       ]
     }
   },
   "hello_react.js": "/packs/js/hello_react-81514c912d242f1e077f.js",
   "hello_react.js.map": "/packs/js/hello_react-81514c912d242f1e077f.js.map",
-  "react-content.js": "/packs/js/react-content-a99633019192952a0930.js",
-  "react-content.js.map": "/packs/js/react-content-a99633019192952a0930.js.map",
-  "server_rendering.js": "/packs/js/server_rendering-9edfcabe110a8dc4280b.js",
-  "server_rendering.js.map": "/packs/js/server_rendering-9edfcabe110a8dc4280b.js.map"
+  "react-content.js": "/packs/js/react-content-129a952d3034768daea0.js",
+  "react-content.js.map": "/packs/js/react-content-129a952d3034768daea0.js.map",
+  "server_rendering.js": "/packs/js/server_rendering-7f994fc3da0d0a5a45a8.js",
+  "server_rendering.js.map": "/packs/js/server_rendering-7f994fc3da0d0a5a45a8.js.map"
 }

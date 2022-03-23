@@ -26,7 +26,6 @@ function App() {
               justifyContent: 'center',
               alignItems: 'center',
               height: '80vh',
-              backgroundColor: 'blue',
               margin: 0,
             }}
           >
