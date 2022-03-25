@@ -1,0 +1,16 @@
+.flexRight {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 1em;
+  list-style: none;
+  margin: 0;
+}
+
+.nav {
+  background-color: white;
+  height: 20vh;
+  margin: 0;
+  display: flex;
+  padding-left: 2rem;
+}
