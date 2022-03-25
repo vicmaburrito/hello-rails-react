@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-// import { bindActionCreators } from 'redux';
 import { thingReducer } from '../redux/things/things';
 
 const Things = () => {
